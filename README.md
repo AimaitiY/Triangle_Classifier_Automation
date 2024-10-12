@@ -1,5 +1,6 @@
-Triangle Classifier
-Overview
+Triangle Classifier Automation
+
+Overview:
 Triangle Classifier is a command-line application that classifies the type of a triangle based on the lengths of its sides. The application outputs one of the following classifications: Scalene, Isosceles, Equilateral, or NoTriangle. It also handles input errors and provides appropriate error messages.
 
 Features
