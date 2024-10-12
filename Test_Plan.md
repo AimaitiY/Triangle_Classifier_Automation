@@ -1,4 +1,5 @@
-Test Plan Overview
+Test Plan
+
 Purpose:
 The purpose of the test plan is to ensure the correct functionality, performance, reliability, security, and usability of the Triangle_Classifier application. The plan includes a comprehensive set of test cases to verify the application behaves as expected for various inputs.
 
